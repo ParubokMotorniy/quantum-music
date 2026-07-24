@@ -1,0 +1,9 @@
+Quantum Markov token sampler summary
+token qubits: 8
+used tokens: 80 / 256
+conditional circuits: 41
+global entropy: 1.363/4.0 bits, Schmidt rank 5
+global basis ops: {'u3': 254, 'cx': 247, 'measure': 8}, depth 496
+example current token: 15
+example conditional entropy: 0.594/4.0 bits
+example basis ops: {'u3': 254, 'cx': 247, 'measure': 8}, depth 496
