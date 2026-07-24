@@ -1,6 +1,6 @@
 Transpiled basis-gate summary for the exact StatePreparation sampler
 qubits: 16
-depth: 130844
-size: 130876
-operations: {'u3': 65436, 'cx': 65424, 'measure': 16}
-entanglement: S(interval|rest)=1.577/6.0 bits; S(duration|rest)=0.873/5.0 bits; S(silence|rest)=0.909/5.0 bits
+depth: 131040
+size: 131069
+operations: {'u3': 65534, 'cx': 65519, 'measure': 16}
+entanglement: S(interval|rest)=1.923/6.0 bits; S(duration|rest)=1.493/5.0 bits; S(silence|rest)=1.398/5.0 bits
