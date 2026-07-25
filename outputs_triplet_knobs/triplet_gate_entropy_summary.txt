@@ -1,0 +1,7 @@
+Full-triplet Markov sampler summary
+qubits: 16 = 6 interval + 5 duration + 5 silence
+state vector length: 65536
+conditional circuits/probability rows: 32
+global S(interval|rest): 1.923/6.0 bits, Schmidt rank 23
+global S(duration|rest): 1.493/5.0 bits, Schmidt rank 16
+global S(silence|rest): 1.398/5.0 bits, Schmidt rank 10
